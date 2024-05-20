@@ -1,0 +1,18 @@
+void setup() {
+ // Inicia la comunicación serial a 9600 bits por segundo
+  Serial.begin(9600); // put your setup code here, to run once:
+
+}
+
+void loop() {
+  // Envía "Hello, World!" a la consola serial
+  Serial.println("Hello, World!");
+
+  // Espera un segundo antes de enviar de nuevo
+  delay(1000);// put your main code here, to run repeatedly:
+
+}
+
+
+<img src="https://imgur.com/a/VtSDwx9" alt="Ejecucion en Arduino" />
+
