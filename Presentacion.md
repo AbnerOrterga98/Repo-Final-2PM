@@ -45,10 +45,8 @@
 #### Comprimos el archivo y tardara unos minutos en instalarse
 ---
 #### Una ves ya instalado se hizo click en Procesing
-#### Aparecera la siguiente carpeta la abrimos y damos click en Procesing
-![Captura de pantalla](https://raw.githubusercontent.com/AbnerOrterga98/Repo-Final-2PM/main/Captura%20de%20pantalla%20.png)
-#### Aparecera una consola donde se realizara el codigo para leer un flujo de datos en formato RGB565 
-#### desde el puerto serial y mostrar una imagen en una ventana.
+#### Aparecera una carpeta damos click en processing-4.3-windows-x64 > processing-4.3 > Procesing 
+#### Aparecera una consola donde se realizara el codigo para leer un flujo de datos en formato RGB565 desde el puerto serial y mostrar una imagen en una ventana.
 ### El codigo que se hizo fue el siguiente
 /*
   This sketch reads a raw Stream of RGB565 pixels
@@ -184,11 +182,46 @@ Serial.write(data, bytesPerFrame);
 }
 
 #### damos click en Upload 
-#### Una vez cargado nos dirigimos a procesing y tambien lo compilamo
+#### Una vez cargado nos dirigimos a procesing y tambien lo compilamos
+![Imagen](https://raw.githubusercontent.com/AbnerOrterga98/Repo-Final-2PM/main/image.jpg)
+#### Al hacer esto automaticamente aparece una pantalla donde en tiempo real el arduino esta capturando imágenes utilizando 
+#### una cámara y envía los datos de los píxeles en formato RGB565 a través del puerto serial en una ventana de Processing.
+
+![Captura de pantalla](https://raw.githubusercontent.com/AbnerOrterga98/Repo-Final-2PM/main/Captura%20de%20pantalla%20(231).png)
 
 ---
 ## Problemas Encontrados
-![Captura de pantalla](https://raw.githubusercontent.com/AbnerOrterga98/Repo-Final-2PM/main/Captura%20de%20pantalla%20(231).png)
+
+
+### Se presentaron algunos problemas respeco a la conexion de Arduino IDE al puerto COM13 que en este caso se presento la siguiente pantalla
+![Captura de pantalla](https://raw.githubusercontent.com/AbnerOrterga98/Repo-Final-2PM/main/Captura%20de%20pantalla%20(235).png)
+
+### Tambien se presentaron problemas respecto a la sintaxis del codigo ya que habian detalles que no permitian la ejecucion del programa
+
+### Hubo tambien que instalar manualmente varias bibliotecas ya que no se encontraban en las bibliotecas de Arduino y hubo que descargarlas 
+### Por medio de Gist
+
+---
+## Resolucion de problemas
+
+### Para la solucion de problemas se conto con la ayuda de articulos de internter,E books y Videos de YouTube para solucionar el problema
+#### Como por ejemplo verificar que el arduino este en el puerto indicado y no en otro 
+#### para ello se dio click en Windows > Panel de control > Administrador de dispotivos > Puertos y COM > COM13
+
+#### Una vez verificado este paso se conecto Arduino Nano BLE 33 al puerto corresponidente en Arduino IDE y se volvio a correr el programa
+![Captura de pantalla](https://github.com/AbnerOrterga98/Repo-Final-2PM/blob/main/Captura%20de%20pantalla%20(237).png)
+
+ ---
+## Conclusion
+### Durante esta practica se desarrollaron habilidades trabajando con una cámara en el Arduino Nano 33 BLE que implico, desde la configuración del hardware hasta la captura y visualización de imágenes hasta la visualización de las imágenes en tu computadora y la carga de estas a GitHub.
+
+
+
+
+
+
+
+
 
 
 
