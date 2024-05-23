@@ -41,10 +41,15 @@
 #### Tambien se descargaron las bibliotecas Harvard_TinyMLx,TensorFlowLite_ESP32.
 #### Una vez este paso vamos a instalar 
 #### Ahora damos click en Examples > Arduino_OV767X > CameraCaptureRawBytes
+![Captura de pantalla](https://raw.githubusercontent.com/AbnerOrterga98/Repo-Final-2PM/main/Captura%20de%20pantalla%20.png)
 #### Ingresamos a https://processing.org/download
+![Captura de pantalla](https://raw.githubusercontent.com/AbnerOrterga98/Repo-Final-2PM/main/procesing.png)
 #### y damos click a instalar la version mas nueva
 #### Comprimos el archivo y tardara unos minutos en instalarse
-#### copiamos el codigo de CameraCaptureRawBytes
+#### Una ves ya instalado se hizo click en Procesing
+#### Aparecera la siguiente carpeta la abrimos y damos click en Procesing
+![Captura de pantalla](https://raw.githubusercontent.com/AbnerOrterga98/Repo-Final-2PM/main/Captura%20de%20pantalla%20.png)
+#### Aparecera el siguiente codigo en  arduino se dio click en upload
 *
   OV767X - Camera Capture Raw Bytes
 
