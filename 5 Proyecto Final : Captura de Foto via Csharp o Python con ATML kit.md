@@ -14,9 +14,9 @@
 ## Titulo de la actividad
 ### Presentacion Proyecto 5: Captura de Foto via Csharp o Python con ATML kit
 
-## Alumno:
+## Alumno y Numero de control:
 
-### Ortega Medina Abner Nahum
+### Ortega Medina Abner Nahum #20211819
 
 ## Materia
 
