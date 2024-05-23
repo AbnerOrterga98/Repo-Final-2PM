@@ -20,7 +20,8 @@
 
 ## Proceso de desarrollo
 
-### Lo primero que se hizo cumplir con todos los requirimientos previamente pedidos como:
+#### Lo primero que se hizo cumplir con todos los requirimientos previamente pedidos como:
+
 #### Arduino Tiny Machine Learning Kit.
 #### Cámara compatible con Arduino (módulo de cámara).
 #### Botón o sensor para activar la cámara.
@@ -29,6 +30,7 @@
 #### GitRepo de kit con ejemplos
 
 #### Para despues ingresar a Arduino IDE para instalar las siguientes bibliotecas
+
 #### Pero antes conectamos el arduino con un cable MicroUsb
 #### Nos dirigimos a Tools > Manage libraries y buscar la bibliotecas correspondientes:
 #### Arduino Mbed Os Nano Boards
@@ -47,7 +49,8 @@
 #### Una ves ya instalado se hizo click en Procesing
 #### Aparecera una carpeta damos click en processing-4.3-windows-x64 > processing-4.3 > Procesing 
 #### Aparecera una consola donde se realizara el codigo para leer un flujo de datos en formato RGB565 desde el puerto serial y mostrar una imagen en una ventana.
-### El codigo que se hizo fue el siguiente
+
+#### El codigo que se hizo fue el siguiente
 /*
   This sketch reads a raw Stream of RGB565 pixels
   from the Serial port and displays the frame on
