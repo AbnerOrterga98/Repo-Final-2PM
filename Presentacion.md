@@ -105,7 +105,8 @@ Serial.write(data, bytesPerFrame);
 
 ---
 ## Problemas Encontrados
-m
+![Captura de pantalla](https://raw.githubusercontent.com/AbnerOrterga98/Repo-Final-2PM/main/Captura%20de%20pantalla%20(231).png)
+
 
 
  
