@@ -217,11 +217,13 @@ Serial.write(data, bytesPerFrame);
 ![Captura de pantalla](https://github.com/AbnerOrterga98/Repo-Final-2PM/blob/main/Captura%20de%20pantalla%20(237).png)
 
 ---
- ## Foto Tomada con Arduino Nano 33 BLE
+ ## Resultados
+ 
+ ### Foto Tomada con Arduino Nano 33 BLE
+ ### Nombre: Ortega Medina Abner Nahum #20211819
  ![Captura de pantalla](https://raw.githubusercontent.com/AbnerOrterga98/Repo-Final-2PM/main/Captura1.png)
  
 ![Captura de pantalla](https://raw.githubusercontent.com/AbnerOrterga98/Repo-Final-2PM/main/Captura%20de%20pantalla%20(231).png)
- ## Nombre: Ortega Medina Abner Nahum #20211819
 
 
 ---
