@@ -99,8 +99,10 @@ void setup() {
 void loop() {
   Camera.readFrame(data);
 
-  Serial.write(data, bytesPerFrame);
+Serial.write(data, bytesPerFrame);
 }
+
+
 ---
 ## Problemas Encontrados
 
