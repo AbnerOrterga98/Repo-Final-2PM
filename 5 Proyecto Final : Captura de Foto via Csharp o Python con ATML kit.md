@@ -187,7 +187,7 @@ Serial.write(data, bytesPerFrame);
 #### Al hacer esto automaticamente aparece una pantalla donde en tiempo real el arduino esta capturando imágenes utilizando 
 #### una cámara y envía los datos de los píxeles en formato RGB565 a través del puerto serial en una ventana de Processing.
 
-![Captura de pantalla](https://raw.githubusercontent.com/AbnerOrterga98/Repo-Final-2PM/main/Captura%20de%20pantalla%20(231).png)
+![Captura de pantalla](https://raw.githubusercontent.com/AbnerOrterga98/Repo-Final-2PM/main/Captura%20de%20pantalla%20(180).png)
 
 ---
 ## Problemas Encontrados
@@ -204,14 +204,24 @@ Serial.write(data, bytesPerFrame);
 ---
 ## Resolucion de problemas
 
-### Para la solucion de problemas se conto con la ayuda de articulos de internter,E books y Videos de YouTube para solucionar el problema
+#### Para la solucion de problemas se conto con la ayuda de articulos de internter,E books y Videos de YouTube para solucionar el problema
 #### Como por ejemplo verificar que el arduino este en el puerto indicado y no en otro 
 #### para ello se dio click en Windows > Panel de control > Administrador de dispotivos > Puertos y COM > COM13
 
-#### Una vez verificado este paso se conecto Arduino Nano BLE 33 al puerto corresponidente en Arduino IDE y se volvio a correr el programa
+#### Una vez verificado este paso se conecto Arduino Nano BLE 33 al puerto corresponidente en Arduino IDE y se volvio a correr el programa.
+
+#### Esta vez sin ningun error,este programa esta diseñado para capturar un fotograma de la cámara OV7670 y enviar los bytes capturados al puerto serial. Este código es ideal para trabajar con una cámara OV7670 conectada a una placa Arduino Nano 33 BLE
 ![Captura de pantalla](https://github.com/AbnerOrterga98/Repo-Final-2PM/blob/main/Captura%20de%20pantalla%20(237).png)
 
- ---
+---
+ ## Foto Tomada con Arduino Nano 33 BLE
+ ![Captura de pantalla](https://raw.githubusercontent.com/AbnerOrterga98/Repo-Final-2PM/main/Captura1.png)
+ 
+![Captura de pantalla](https://raw.githubusercontent.com/AbnerOrterga98/Repo-Final-2PM/main/Captura%20de%20pantalla%20(231).png)
+ ## Nombre: Ortega Medina Abner Nahum #20211819
+
+
+---
 ## Conclusion
 ### Durante esta practica se desarrollaron habilidades trabajando con una cámara en el Arduino Nano 33 BLE que implico, desde la configuración del hardware hasta la captura y visualización de imágenes hasta la visualización de las imágenes en tu computadora y la carga de estas a GitHub.
 
