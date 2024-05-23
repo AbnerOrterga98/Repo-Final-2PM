@@ -101,8 +101,13 @@ void loop() {
 
   Serial.write(data, bytesPerFrame);
 }
+
 ---
 ## Problemas Encontrados
+
+#### Se presentaron algunos problemas
+
+
 
 
 
