@@ -1,4 +1,18 @@
-# Presentacion Proyecto 5: Captura de Foto via Csharp o Python con ATML kit
+![logo tec](https://raw.githubusercontent.com/AbnerOrterga98/Repo-Final-2PM/main/logo%20tec.png)
+## TECNOLÓGICO​ ​NACIONAL​ ​DE​ ​MÉXICO
+## INSTITUTO TECNOLÓGICO DE TIJUANA
+
+## SUBDIRECCIÓN ACADÉMICA
+## DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN
+
+## SEMESTRE: 
+#### Enero - Junio 2024
+
+## CARRERA: 
+### Ingeniería en Sistemas Computacionales
+
+## Titulo de la actividad
+### Presentacion Proyecto 5: Captura de Foto via Csharp o Python con ATML kit
 
 ## Alumno:
 
