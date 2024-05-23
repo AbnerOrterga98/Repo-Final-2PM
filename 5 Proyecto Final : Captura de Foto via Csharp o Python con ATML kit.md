@@ -6,7 +6,7 @@
 ## DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN
 
 ## SEMESTRE: 
-#### Enero - Junio 2024
+### Enero - Junio 2024
 
 ## CARRERA: 
 ### Ingeniería en Sistemas Computacionales
